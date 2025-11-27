@@ -1,7 +1,4 @@
-# About me
-
-
-## Hi, I'm Wisdom Ibeh
+# WISDOM-T
 
 I'm an **AI/ML Engineer**, **AWS AI & ML Scholar '25**.  
 I’m passionate about  building Ai powered solution and designing intelligent systems that automate workflows, enhance decision-making,  
