@@ -1,8 +1,7 @@
 # WISDOM-T
 
 I'm an **AI/ML Engineer**, **AWS AI & ML Scholar '25**.  
-I’m passionate about  building Ai powered solution and designing intelligent systems that automate workflows, enhance decision-making,  
-and help individuals and organizations adapt to the AI-powered economy.
+I’m passionate about  building Ai powered solution and designing intelligent systems that automate workflows, enhance decision-making,  and help individuals and organizations adapt to the AI-powered economy.
 
 ---
 
@@ -33,5 +32,5 @@ and help individuals and organizations adapt to the AI-powered economy.
 ### 🌍 Connect With Me
 - 🧵 Twitter (X): [https://x.com/wisdomibeh_]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/wisdom-ibeh]  
-- 💻 Portfolio: [Your Portfolio Link]
+- 💻 Portfolio: 
 
