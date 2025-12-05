@@ -14,11 +14,11 @@ I’m passionate about  building Ai powered solution and designing intelligent s
 ---
 
 ###  Tech Stack
-**Languages:** Python · SQL · JavaScript  
+**Languages:** Python · SQL  
 **Frameworks:** PyTorch · TensorFlow · Scikit-learn · LangChain  
 **Cloud:** AWS Sagemaker · Bedrock · Lambda · EC2 · S3  
 **AI Tools:** OpenAI API · Hugging Face · Streamlit · FastAPI  
-**Other:** Git · Docker · REST APIs
+**Other:** Git · REST APIs
 
 ---
 
